@@ -1,0 +1,6 @@
+# Python generated files
+venv
+__pycache__
+# Audio and video generated files
+*.mp4
+*.mp3
